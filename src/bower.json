@@ -1,0 +1,17 @@
+{
+  "name": "src",
+  "homepage": "https://github.com/ClemensBasler/ng-embed-tryout",
+  "authors": [
+    "Clemens Basler"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
