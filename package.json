@@ -1,0 +1,22 @@
+{
+  "name": "ng-embed-tryout",
+  "version": "1.0.0",
+  "description": "Tryout out ng-embed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ClemensBasler/ng-embed-tryout.git"
+  },
+  "author": "Clemens Basler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ClemensBasler/ng-embed-tryout/issues"
+  },
+  "homepage": "https://github.com/ClemensBasler/ng-embed-tryout",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
